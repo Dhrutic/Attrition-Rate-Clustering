@@ -1,4 +1,4 @@
-ftj############import all the neccessary libraries##########
+############import all the neccessary libraries##########
 library(ggplot2)
 library(caTools)
 ##################load the data##################################
